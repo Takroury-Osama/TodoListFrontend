@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+}
+
+#CompletedDiv
+{
+    opacity:.5;
+}
+
+#CompletedDiv:hover
+{
+    opacity:1;
+}
+
+.ToDoItem:hover{
+ background-color: lightgray!Important;
+color:#121212 !important;
+}
+
+.ToDoItem i:hover
+{
+    cursor: pointer;
+    color :darkslategrey;
+}
